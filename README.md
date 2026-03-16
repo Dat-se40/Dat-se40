@@ -9,6 +9,7 @@ I enjoy building applications and learning new technologies in software developm
 ## 🛠 Tech Stack
 
 **Languages**
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,sql)](https://skillicons.dev)
 
 **Technologies & Tools**
