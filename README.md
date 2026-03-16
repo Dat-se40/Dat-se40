@@ -9,18 +9,11 @@ I enjoy building applications and learning new technologies in software developm
 ## 🛠 Tech Stack
 
 **Languages**
-
-* C++
-* C#
-* Java
-* SQL
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,sql)](https://skillicons.dev)
 
 **Technologies & Tools**
 
-* Spring Boot
-* MongoDB
-* Unity
-* Node.js
+[![My Skills|217](https://skillicons.dev/icons?i=mongodb,nodejs,unity,postman,latex)](https://skillicons.dev)
 
 ---
 
