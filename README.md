@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Dat-se40/Dat-se40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Đạt**, a Software Engineering student at **University of Information Technology – Vietnam National University**.
 
-Here are some ideas to get you started:
+I enjoy building applications and learning new technologies in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+* C++
+* C#
+* Java
+* SQL
+
+**Technologies & Tools**
+
+* Spring Boot
+* MongoDB
+* Unity
+* Node.js
+
+---
+
+## 💻 What I Do
+
+* Desktop application development
+* Mobile application development
+* Game development with Unity
+
+---
+
+## 🎮 Interests
+
+I enjoy playing turn-based / strategy games such as:
+
+* Onmyoji
+* Fate/Grand Order
+* Reverse: 1999
+* Morimens
+
+---
+
+## 📚 Currently Learning
+
+* Improving backend development with **Spring Boot**
+* Practicing software architecture and clean code
+
+---
+
+## 🌱 About Me
+
+* I enjoy learning new technologies
+* My English is enough to read and write technical documentation
+* Always trying to improve my programming skills
+
+---
+
+⭐ Feel free to explore my repositories!
