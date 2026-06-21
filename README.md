@@ -53,4 +53,4 @@ I enjoy playing turn-based / strategy games such as:
 ---
 
 ⭐ Feel free to explore my repositories!
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dat-se40)](https://github.com/Dat-se40)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dat-se40)
